@@ -1,7 +1,7 @@
 <?php
 $a = 3;
 echo $a;
-echo "\n";
+echo "<br>";
 
 //
 $a = 10;
@@ -14,14 +14,14 @@ $result = $a * $b;
 echo $result;
 $result = $a / $b;
 echo $result;
-echo "\n";
+echo "<br>";
 
 //
 $c = 15;
 $d = 2;
 $result = $c + $d;
 echo $result;
-echo "\n";
+echo "<br>";
 
 //
 $a = 10;
@@ -29,7 +29,7 @@ $b = 2;
 $c = 3;
 $result = ($a + $b + $c) / (($a + $b + $c) / 3);
 echo $result;
-echo "\n";
+echo "<br>";
 
 //
 $a = 17;
